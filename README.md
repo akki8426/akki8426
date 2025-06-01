@@ -1,4 +1,4 @@
-<img src="https://github.com/akki8426/akki8426/blob/main/data%20analysis%20banner%20image.jpg?raw=true" alt="GitHub Banner" width="1200" height="300" />
+<img src="https://github.com/akki8426/akki8426/blob/main/github_image_banner_2.png?raw=true" alt="GitHub Banner" width="1200" height="300" />
 
 # Hi👋, I am Akshay Khobragade :
 A Passionate Data Analyst 
