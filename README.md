@@ -1,6 +1,6 @@
 <img scr="https://github.com/akki8426/akki8426/blob/main/o5zuw3fo.png?raw=true" alt="GitHub Banner"   />
 
-# Hi💫, I am Akshay Khobragade :
+# Hi👋, I am Akshay Khobragade :
 A Passionate Data Analyst 
 
 
