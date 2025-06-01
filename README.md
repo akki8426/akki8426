@@ -1,4 +1,4 @@
-<img scr="ChatGPT Image Jun 1, 2025, 11_32_44 PM.png" alt="GitHub Banner" width="100%" />
+<img scr="https://github.com/akki8426/akki8426/blob/main/github_image_banner.png?raw=true" width="100%" />
 
 # 💫 About Me:
 Data Scientist | Data Analyst | Business Analyst | PYTHON | MYSQL | NUMPY | PANDAS | MATPLOTLIB | SEABORN | POWER BI | Advance EXCEL | MACHINE LEARNING | STATISTICS
