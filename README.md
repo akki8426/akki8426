@@ -1,4 +1,4 @@
-<img scr="https://github.com/akki8426/akki8426/blob/main/github_image_banner_optimized.png?raw=true" alt="GitHub Banner" />
+<img scr="https://github.com/akki8426/akki8426/blob/main/github_image_banner_optimized.png?raw=true"/>
 
 # 💫 About Me:
 Data Scientist | Data Analyst | Business Analyst | PYTHON | MYSQL | NUMPY | PANDAS | MATPLOTLIB | SEABORN | POWER BI | Advance EXCEL | MACHINE LEARNING | STATISTICS
