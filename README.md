@@ -1,4 +1,4 @@
-<img scr="https://github.com/akki8426/akki8426/blob/main/github_image_banner_optimized.png?raw=true"/>
+<img scr="https://github.com/akki8426/akki8426/blob/main/o5zuw3fo.png?raw=true" alt="GitHub Banner"   />
 
 # 💫 About Me:
 A Passionate Data Analyst
