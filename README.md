@@ -1,7 +1,7 @@
 <img src="https://github.com/akki8426/akki8426/blob/main/Black%20and%20Brown%20Simple%20Modern%20Professional%20Business%20LinkedIn%20Banner.png?raw=true" width="1200" height="180" />
 
-# Hi👋, I am Akshay Khobragade :
-A Passionate Data Analyst 
+# Hello world 👋, I am Akshay Khobragade :
+A Passionate Data Enthusiast & a Professional Data Analyst 
 
 
 ## 🌐 Socials:
