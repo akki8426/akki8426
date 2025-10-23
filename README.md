@@ -1,4 +1,4 @@
-<img src="Screenshot_23-10-2025_18594_www_imgupscaler.ai_v1(Fast)_2K.png?raw=true" width="1200" height="170" />
+<img src="Screenshot_23-10-2025_18594_www_imgupscaler.ai_v1(Fast)_2K.png?raw=true" width="1200" height="300" />
 
 # Hello world 👋, I am Akshay Khobragade
 A Passionate Data Enthusiast & a Professional Data Analyst 
